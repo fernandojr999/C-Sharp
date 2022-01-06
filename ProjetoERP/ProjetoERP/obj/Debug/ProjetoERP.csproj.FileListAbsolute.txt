@@ -1,0 +1,12 @@
+C:\Users\fpjpr\OneDrive\Área de Trabalho\dotNET\Projetos\ProjetoERP\ProjetoERP\bin\Debug\ProjetoERP.exe.config
+C:\Users\fpjpr\OneDrive\Área de Trabalho\dotNET\Projetos\ProjetoERP\ProjetoERP\bin\Debug\ProjetoERP.exe
+C:\Users\fpjpr\OneDrive\Área de Trabalho\dotNET\Projetos\ProjetoERP\ProjetoERP\bin\Debug\ProjetoERP.pdb
+C:\Users\fpjpr\OneDrive\Área de Trabalho\dotNET\Projetos\ProjetoERP\ProjetoERP\obj\Debug\ProjetoERP.csproj.SuggestedBindingRedirects.cache
+C:\Users\fpjpr\OneDrive\Área de Trabalho\dotNET\Projetos\ProjetoERP\ProjetoERP\obj\Debug\ProjetoERP.Properties.Resources.resources
+C:\Users\fpjpr\OneDrive\Área de Trabalho\dotNET\Projetos\ProjetoERP\ProjetoERP\obj\Debug\ProjetoERP.csproj.GenerateResource.cache
+C:\Users\fpjpr\OneDrive\Área de Trabalho\dotNET\Projetos\ProjetoERP\ProjetoERP\obj\Debug\ProjetoERP.csproj.CoreCompileInputs.cache
+C:\Users\fpjpr\OneDrive\Área de Trabalho\dotNET\Projetos\ProjetoERP\ProjetoERP\obj\Debug\ProjetoERP.exe
+C:\Users\fpjpr\OneDrive\Área de Trabalho\dotNET\Projetos\ProjetoERP\ProjetoERP\obj\Debug\ProjetoERP.pdb
+C:\Users\fpjpr\OneDrive\Área de Trabalho\dotNET\Projetos\ProjetoERP\ProjetoERP\obj\Debug\ProjetoERP.formularios.cadastros.frmClientes.resources
+C:\Users\fpjpr\OneDrive\Área de Trabalho\dotNET\Projetos\ProjetoERP\ProjetoERP\obj\Debug\ProjetoERP.frmPrincipal.resources
+C:\Users\fpjpr\OneDrive\Área de Trabalho\dotNET\Projetos\ProjetoERP\ProjetoERP\obj\Debug\ProjetoERP.csproj.AssemblyReference.cache
