@@ -1,0 +1,8 @@
+C:\Users\fpjpr\OneDrive\Área de Trabalho\dotNET\Projetos\ConsumoAPI\ConsumoAPI\bin\Debug\ConsumoAPI.exe.config
+C:\Users\fpjpr\OneDrive\Área de Trabalho\dotNET\Projetos\ConsumoAPI\ConsumoAPI\bin\Debug\ConsumoAPI.exe
+C:\Users\fpjpr\OneDrive\Área de Trabalho\dotNET\Projetos\ConsumoAPI\ConsumoAPI\bin\Debug\ConsumoAPI.pdb
+C:\Users\fpjpr\OneDrive\Área de Trabalho\dotNET\Projetos\ConsumoAPI\ConsumoAPI\obj\Debug\ConsumoAPI.csproj.AssemblyReference.cache
+C:\Users\fpjpr\OneDrive\Área de Trabalho\dotNET\Projetos\ConsumoAPI\ConsumoAPI\obj\Debug\ConsumoAPI.csproj.SuggestedBindingRedirects.cache
+C:\Users\fpjpr\OneDrive\Área de Trabalho\dotNET\Projetos\ConsumoAPI\ConsumoAPI\obj\Debug\ConsumoAPI.csproj.CoreCompileInputs.cache
+C:\Users\fpjpr\OneDrive\Área de Trabalho\dotNET\Projetos\ConsumoAPI\ConsumoAPI\obj\Debug\ConsumoAPI.exe
+C:\Users\fpjpr\OneDrive\Área de Trabalho\dotNET\Projetos\ConsumoAPI\ConsumoAPI\obj\Debug\ConsumoAPI.pdb

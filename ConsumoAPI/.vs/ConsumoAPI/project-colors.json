@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c860ce19-928d-40cc-a143-7b27fb21a88c": {
+      "ProjectGuid": "c860ce19-928d-40cc-a143-7b27fb21a88c",
+      "DisplayName": "ConsumoAPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
